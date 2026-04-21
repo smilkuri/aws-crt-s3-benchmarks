@@ -1,0 +1,10 @@
+{
+  "name": "s3-benchrunner-js",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "3.1030.0",
+    "@aws-sdk/lib-storage": "file:./aws-sdk-lib-storage.tgz"
+  }
+}
